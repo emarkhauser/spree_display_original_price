@@ -1,7 +1,8 @@
-SpreeDisplayOriginalPrice
+Spree Display Original Price
 =========================
 
-Introduction goes here.
+Spree Commerce extension to display the original price of a product. Useful for users to compare it to the sales price.
+
 
 Installation
 ------------
@@ -36,4 +37,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_display_original_price/factories'
 ```
 
-Copyright (c) 2015 [name of extension creator], released under the New BSD License
+Copyright (c) 2015 Erik Markhauser, released under the New BSD License
